@@ -1,0 +1,27 @@
+{
+  "name": "js-emaily",
+  "version": "1.0.0",
+  "description": "This project is from udemy tutorial.",
+  "main": "index.js",
+  "engines": {
+    "node": "10.15.0",
+    "npm": "6.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namita13jain/node-js-emaily.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/namita13jain/node-js-emaily/issues"
+  },
+  "homepage": "https://github.com/namita13jain/node-js-emaily#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
